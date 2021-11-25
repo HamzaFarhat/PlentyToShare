@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/activity_choose_profile_type.xml" value="0.176" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/activity_restaurant_calendar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/activity_update_calendar_event.xml" value="0.259375" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/bottom_sheet_update_event.xml" value="0.2734375" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/login_activity.xml" value="0.1" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/recycler_view_restaurant_event_item.xml" value="0.2734375" />
+        <entry key="..\:/Users/100601514/Desktop/School/Yr4/Mobile - SOFE4640/Project/PlentyToShare/app/src/main/res/layout/restaurant_registration.xml" value="0.1" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/activity_choose_profile_type.xml" value="0.1875" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/activity_restaurant_calendar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/bottom_sheet_update_event.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/charity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/charity_request_restaurant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/login_activity.xml" value="0.1875" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/recycler_view_charity_requests_restaurant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/recycler_view_restaurant_event_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hamza/Documents/MobileDev/PlentyToShare-main/PlentyToShare/app/src/main/res/layout/restaurant_registration.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
